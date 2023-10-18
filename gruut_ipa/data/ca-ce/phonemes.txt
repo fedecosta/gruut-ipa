@@ -1,4 +1,5 @@
-# v3
+# https://en.wikipedia.org/wiki/Catalan_phonology
+# Catalan Central accent phonemes
 
 p [p]ala
 b [b]ala
